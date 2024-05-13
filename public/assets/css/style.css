@@ -612,7 +612,7 @@ section {
 
 .portfolio-image {
   height: 240px;
-  object-fit: contain;
+  object-fit: cover;
   width: 100%;
   transition: transform 0.3s ease;
 }
